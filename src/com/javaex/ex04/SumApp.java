@@ -18,6 +18,8 @@ public class SumApp {
 		System.out.println("합:" + sum);
 		
 		sc.close();
+		
+		// 될까요?
 	}
 
 }
