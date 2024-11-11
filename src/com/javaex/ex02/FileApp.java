@@ -15,6 +15,7 @@ public class FileApp {
 	public static void fileRead() throws IOException{
 		throw new IOException(); // 강제로 예외 발생
 	}
+	// 되나요??
 }
 
 
